@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\bin\Debug\netcoreapp3.1\StringValidationApp.exe
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\bin\Debug\netcoreapp3.1\StringValidationApp.deps.json
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\bin\Debug\netcoreapp3.1\StringValidationApp.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\bin\Debug\netcoreapp3.1\StringValidationApp.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\bin\Debug\netcoreapp3.1\StringValidationApp.dll
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\bin\Debug\netcoreapp3.1\StringValidationApp.pdb
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.dll
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.pdb
+C:\Users\aiman.shariff\source\repos\StringValidationApp\StringValidationApp\obj\Debug\netcoreapp3.1\StringValidationApp.genruntimeconfig.cache
